@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "commander.net": {
+    "Commander": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
